@@ -34,7 +34,7 @@ Note: Ensure that the input images and folders are organized as described above 
 
 ## Results
 
-The results of each task will be displayed seperatel in the terminal.
+The results of each task will be displayed seperately in the terminal.
 
 Please refer to the specific task's folder or file for the corresponding results.
 

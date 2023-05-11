@@ -14,9 +14,9 @@ int main(int argc, char **argv)
 {
     Mat segmented, labelled, ground, colored, km;
 
-    const string path = samples::findFile("C:\\Users\\Ahmad\\Desktop\\Data assigment 1\\Segmented Outputs\\mIMD075.bmp");
-    const string path2 = samples::findFile("C:\\Users\\Ahmad\\Desktop\\Data assigment 1\\Ground Truths\\IMD075_lesion.bmp");
-    const string path3 = samples::findFile("C:\\Users\\Ahmad\\Desktop\\Data assigment 1\\Original Images\\IMD075.bmp");
+    const string path = samples::findFile("");
+    const string path2 = samples::findFile("");
+    const string path3 = samples::findFile("");
 
     segmented = imread(path); // Read the file
     ground = imread(path2);

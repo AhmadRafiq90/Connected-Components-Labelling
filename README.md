@@ -49,4 +49,3 @@ Feel free to contribute, modify, or distribute this codebase following the terms
 - This project utilizes various image processing techniques and algorithms.
 - Credits to the contributors and developers of the used libraries and dependencies.
 
-If you have any questions or need further assistance, please contact [your name or email].
